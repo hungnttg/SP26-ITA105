@@ -185,7 +185,7 @@ print(model4.wv.most_similar("sáng", topn=5))
 
 
 # =========================================
-# KẾT LUẬN CHUNG (SIÊU DỄ HIỂU)
+# KẾT LUẬN CHUNG , CÁC EM ĐỌC KỸ MẤY CÁI NÀY ĐỂ HIÊU KHÁI NUEEMJ NHÉ
 # =========================================
 
 print("""
